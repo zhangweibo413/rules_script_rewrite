@@ -3,7 +3,10 @@
 # HOST-SUFFIX,: 4
 # HOST: 2
 # IP-CIDR: 5
+# DST-PORT: 2
 # TOTAL: 13
+DST-PORT,50051,TronLink
+DST-PORT,9000,TronLink
 HOST,list.tronLink.org,TronLink
 HOST,static.tronscan.org,TronLink
 HOST-SUFFIX,tronlink.org,TronLink
@@ -17,3 +20,4 @@ IP-CIDR,34.220.77.0/24,TronLink
 IP-CIDR,43.198.147.0/24,TronLink
 IP-CIDR,44.205.88.0/24,TronLink
 IP-CIDR,47.242.46.0/24,TronLink
+IP-CIDR,52.76.86.0/24,TronLink
