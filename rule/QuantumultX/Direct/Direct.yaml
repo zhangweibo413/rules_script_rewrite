@@ -1,0 +1,10 @@
+# NAME: Direct
+host-suffix, v.ps, direct
+host-suffix, vps.hosting, direct
+host-suffix, yinxiang.com, direct
+host-suffix, sogou.com, direct
+host-suffix, wise.com, direct
+host, fonts.gstatic.com, direct
+host, fonts.googleapis.com, direct
+host-wildcard, *.alibabacloud.com, direct
+host-wildcard, *.aliyun.com, direct
