@@ -1,9 +1,4 @@
 # NAME: TronLink
-# HOST-KEYWORD: 2
-# HOST-SUFFIX,: 4
-# HOST: 2
-# IP-CIDR: 6
-# TOTAL: 14
 HOST,list.tronLink.org,TronLink
 HOST,static.tronscan.org,TronLink
 HOST-SUFFIX,tronlink.org,TronLink
