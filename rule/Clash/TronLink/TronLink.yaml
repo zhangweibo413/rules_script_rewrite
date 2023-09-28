@@ -1,0 +1,20 @@
+# NAME: TronLink
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 4
+# DOMAIN: 2
+# IP-CIDR: 5
+# TOTAL: 13
+payload:
+  - DOMAIN,list.tronlink.org
+  - DOMAIN,static.tronscan.org
+  - DOMAIN-SUFFIX,tronlink.org
+  - DOMAIN-SUFFIX,tronads.io
+  - DOMAIN-SUFFIX,tronscan.org
+  - DOMAIN-SUFFIX,tronscanapi.com
+  - DOMAIN-KEYWORD,tronlink
+  - DOMAIN-KEYWORD,tronscan
+  - IP-CIDR,18.206.50.0/24
+  - IP-CIDR,34.220.77.0/24
+  - IP-CIDR,43.198.147.0/24
+  - IP-CIDR,44.205.88.0/24
+  - IP-CIDR,47.242.46.0/24
