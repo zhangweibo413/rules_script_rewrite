@@ -1,0 +1,12 @@
+# NAME: Oracle
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 4
+# HOST: 1
+# TOTAL: 6
+payload:
+  - DOMAIN,oracle.112.2o7.net
+  - DOMAIN-SUFFIX,oracle.com
+  - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,cybersource.com
+  - DOMAIN-SUFFIX,online-metrix.net
+  - DOMAIN-KEYWORD,oracle
