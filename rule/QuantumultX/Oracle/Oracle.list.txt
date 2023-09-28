@@ -1,0 +1,13 @@
+# NAME: Oracle
+# HOST-KEYWORD: 1
+# HOST-SUFFIX: 3
+# HOST-WILDCARD: 2
+# HOST: 1
+# TOTAL: 7
+HOST,oracle.112.2o7.net,Oracle
+HOST-SUFFIX,oracle.com,Oracle
+HOST-SUFFIX,oraclecloud.com,Oracle
+HOST-SUFFIX,cybersource.com,Oracle
+HOST-WILDCARD,*.oracle.com,Oracle
+HOST-WILDCARD,*.online-metrix.net,Oracle
+HOST-KEYWORD,oracle,Oracle
