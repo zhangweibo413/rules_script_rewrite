@@ -1,0 +1,10 @@
+# NAME: TeraBox
+# HOST-SUFFIX: 5
+# HOST-KEYWORD: 1
+# TOTAL: 2
+HOST-SUFFIX,terabox.com,TeraBox
+HOST-SUFFIX,teraboxcdn.com,TeraBox
+HOST-SUFFIX,duboxcdn.com,TeraBox
+HOST-SUFFIX,dubox.com,TeraBox
+HOST-SUFFIX,1024tera.com,TeraBox
+HOST-KEYWORD,terabox,TeraBox
