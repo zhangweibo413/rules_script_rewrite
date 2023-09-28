@@ -1,0 +1,11 @@
+# NAME: TeraBox
+# HOST-SUFFIX: 5
+# HOST-KEYWORD: 1
+# TOTAL: 6
+payload:
+  - DOMAIN-SUFFIX,terabox.com
+  - DOMAIN-SUFFIX,teraboxcdn.com
+  - DOMAIN-SUFFIX,duboxcdn.com
+  - DOMAIN-SUFFIX,dubox.com
+  - DOMAIN-SUFFIX,1024tera.com
+  - DOMAIN-KEYWORD,terabox
