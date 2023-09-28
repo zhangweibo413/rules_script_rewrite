@@ -1,7 +1,4 @@
 # NAME: OpenAI
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 16
-# TOTAL: 17
 HOST-SUFFIX,ai.com,OpenAI
 HOST-SUFFIX,auth0.com,OpenAI
 HOST-SUFFIX,challenges.cloudflare.com,OpenAI
