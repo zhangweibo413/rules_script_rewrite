@@ -4,16 +4,16 @@
 # HOST: 2
 # IP-CIDR: 5
 # TOTAL: 13
-HOST,list.tronlink.org
-HOST,static.tronscan.org
-HOST-SUFFIX,tronlink.org
-HOST-SUFFIX,tronads.io
-HOST-SUFFIX,tronscan.org
-HOST-SUFFIX,tronscanapi.com
-HOST-KEYWORD,tronlink
-HOST-KEYWORD,tronscan
-IP-CIDR,18.206.50.0/24
-IP-CIDR,34.220.77.0/24
-IP-CIDR,43.198.147.0/24
-IP-CIDR,44.205.88.0/24
-IP-CIDR,47.242.46.0/24
+HOST,list.tronLink.org,TronLink
+HOST,static.tronscan.org,TronLink
+HOST-SUFFIX,tronlink.org,TronLink
+HOST-SUFFIX,tronads.io,TronLink
+HOST-SUFFIX,tronscan.org,TronLink
+HOST-SUFFIX,tronscanapi.com,TronLink
+HOST-KEYWORD,tronlink,TronLink
+HOST-KEYWORD,tronscan,TronLink
+IP-CIDR,18.206.50.0/24,TronLink
+IP-CIDR,34.220.77.0/24,TronLink
+IP-CIDR,43.198.147.0/24,TronLink
+IP-CIDR,44.205.88.0/24,TronLink
+IP-CIDR,47.242.46.0/24,TronLink
