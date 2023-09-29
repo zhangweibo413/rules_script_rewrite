@@ -1,7 +1,4 @@
 # NAME: PT_Site
-# HOST-SUFFIX: 32
-# HOST-KEYWORD: 1
-# TOTAL: 33
 payload:
   - DOMAIN-SUFFIX,monikadesign.uk
   - DOMAIN-SUFFIX,hdroute.org
