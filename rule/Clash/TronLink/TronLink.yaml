@@ -1,10 +1,7 @@
 # NAME: TronLink
-# DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 4
-# DOMAIN: 2
-# IP-CIDR: 5
-# TOTAL: 13
 payload:
+  - DST-PORT,50051
+  - DST-PORT,9000
   - DOMAIN,list.tronlink.org
   - DOMAIN,static.tronscan.org
   - DOMAIN-SUFFIX,tronlink.org
