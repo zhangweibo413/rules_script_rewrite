@@ -1,7 +1,4 @@
 # NAME: OpenAI
-# HOST-KEYWORD: 1
-# HOST-SUFFIX: 16
-# TOTAL: 17
 payload:
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,auth0.com
