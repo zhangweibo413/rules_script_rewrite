@@ -1,0 +1,10 @@
+# NAME: Proxy
+payload:
+  - DOMAIN-SUFFIX,hostloc.com
+  - DOMAIN-SUFFIX,hostevaluate.com
+  - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,flickr.com
+  - DOMAIN-SUFFIX,istockphoto.com
+  - DOMAIN-SUFFIX,dddd.cool
+  - DOMAIN-SUFFIX,mxwljsq.top
