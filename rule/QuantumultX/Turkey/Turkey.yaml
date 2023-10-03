@@ -1,0 +1,8 @@
+# NAME: Turkey
+HOST-SUFFIX,autoupdate.termius.com,Turkey
+HOST-SUFFIX,api.termius.com,Turkey
+HOST-SUFFIX,oldubil.com.tr,Turkey
+HOST-KEYWORD,termius,Turkey
+HOST-KEYWORD,oldubil,Turkey
+IP-CIDR,45.67.232.0/24,Turkey
+IP-CIDR,195.42.242.0/24,Turkey
