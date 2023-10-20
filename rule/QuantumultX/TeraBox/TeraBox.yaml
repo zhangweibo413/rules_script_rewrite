@@ -5,4 +5,4 @@ HOST-SUFFIX,duboxcdn.com,TeraBox
 HOST-SUFFIX,dubox.com,TeraBox
 HOST-SUFFIX,1024tera.com,TeraBox
 HOST-KEYWORD,terabox,TeraBox
-IP-CIDR,210.148.85.0/24,TeraBox
+IP-CIDR,210.148.0.0/16,TeraBox
