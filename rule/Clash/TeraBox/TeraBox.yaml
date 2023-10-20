@@ -6,5 +6,4 @@ payload:
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,1024tera.com
   - DOMAIN-KEYWORD,terabox
-  - IP-CIDR,210.148.85.0/24
-  - IP-CIDR,210.154.124.0/24
+  - IP-CIDR,210.148.0.0/16
