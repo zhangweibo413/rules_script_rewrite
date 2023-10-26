@@ -1,5 +1,7 @@
 # NAME: Turkey
 payload:
+  - DOMAIN-SUFFIX,iyzipay.com
+  - DOMAIN-SUFFIX,iyzico.com
   - DOMAIN-SUFFIX,autoupdate.termius.com
   - DOMAIN-SUFFIX,api.termius.com
   - DOMAIN-SUFFIX,oldubil.com.tr
