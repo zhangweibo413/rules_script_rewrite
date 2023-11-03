@@ -21,8 +21,6 @@ DOMAIN-SUFFIX,bulianglin.com
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,name.com
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,onedrive.live.com
@@ -39,13 +37,11 @@ DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,abc.com
-DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkfind.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkmonk.com
 DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,archive.is
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,bbc.co
@@ -87,10 +83,5 @@ DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
-USER-AGENT,Prime%20Video*
-DOMAIN-SUFFIX,aiv-cdn.net
-DOMAIN-SUFFIX,aiv-delivery.net
-DOMAIN-SUFFIX,amazonvideo.com
-DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
