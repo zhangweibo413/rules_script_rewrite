@@ -1,4 +1,5 @@
 # NAME: Proxy
+DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,hostevaluate.com
 DOMAIN-SUFFIX,nodeseek.com
@@ -31,11 +32,10 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apkfind.com
@@ -81,7 +81,6 @@ DOMAIN-SUFFIX,yimg.com
 USER-AGENT,Spotify*
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-KEYWORD,-spotify-com
+DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
