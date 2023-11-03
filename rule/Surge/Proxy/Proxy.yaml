@@ -581,8 +581,6 @@ DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,-spotify-com
 USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
 USER-AGENT,All4*
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
@@ -736,8 +734,4 @@ DOMAIN,api.viu.now.com
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube.com
 DOMAIN,youtubei.googleapis.com
