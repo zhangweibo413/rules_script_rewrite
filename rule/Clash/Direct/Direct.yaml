@@ -9,3 +9,9 @@ payload:
   - DOMAIN,fonts.googleapis.com
   - DOMAIN-SUFFIX,alibabacloud.com
   - DOMAIN-SUFFIX,aliyun.com
+  - DOMAIN-SUFFIX,spartanhost.net
+  - DOMAIN-SUFFIX,spartanhost.org
+  - DOMAIN-KEYWORD,spartanhost
+  - DOMAIN-SUFFIX,hetzner.com
+  - DOMAIN-SUFFIX,hetzner.cloud
+  - DOMAIN-KEYWORD,hetzner
