@@ -8,3 +8,9 @@ host, fonts.gstatic.com, direct
 host, fonts.googleapis.com, direct
 host-wildcard, *.alibabacloud.com, direct
 host-wildcard, *.aliyun.com, direct
+host-suffix, spartanhost.net, direct
+host-suffix, spartanhost.org, direct
+HOST-KEYWORD, spartanhost, direct
+host-suffix, hetzner.com, direct
+host-suffix, hetzner.cloud, direct
+HOST-KEYWORD, hetzner, direct
