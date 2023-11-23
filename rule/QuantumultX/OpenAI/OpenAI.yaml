@@ -15,4 +15,6 @@ HOST-SUFFIX,openaicomproductionae4b.blob.core.windows.net, OpenAI
 HOST-SUFFIX,openaicom.imgix.net, OpenAI
 HOST-SUFFIX,openaiapi-site.azureedge.net, OpenAI
 HOST-SUFFIX,openai.com, OpenAI
+HOST-SUFFIX,oaistatic.com, OpenAI
+HOST-SUFFIX,oaiusercontent.com, OpenAI
 HOST-KEYWORD,openai,OpenAI
