@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,teraboxcdn.com
 DOMAIN-SUFFIX,duboxcdn.com
 DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,1024tera.com
+DOMAIN-SUFFIX,teraboxapp.com
 DOMAIN-KEYWORD,terabox
 IP-CIDR,210.148.0.0/16,no-resolve
 IP-CIDR,210.154.0.0/16,no-resolve
