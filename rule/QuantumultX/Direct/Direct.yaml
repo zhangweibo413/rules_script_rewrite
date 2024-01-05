@@ -1,4 +1,7 @@
 # NAME: Direct
+host, crosswall.cc, direct
+host, sub.crosswall.cc, direct
+host-suffix, crosswall.cc, direct
 host-suffix, v.ps, direct
 host-suffix, vps.hosting, direct
 host-suffix, yinxiang.com, direct
