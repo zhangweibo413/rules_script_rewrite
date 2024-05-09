@@ -4,7 +4,9 @@ DOMAIN-SUFFIX,iyzico.com
 #DOMAIN-SUFFIX,autoupdate.termius.com
 #DOMAIN-SUFFIX,api.termius.com
 DOMAIN-SUFFIX,oldubil.com.tr
+DOMAIN-SUFFIX,oyunfor.com
 #DOMAIN-KEYWORD,termius
 DOMAIN-KEYWORD,oldubil
+DOMAIN-KEYWORD,oyunfor
 IP-CIDR,45.67.232.0/24,no-resolve
 IP-CIDR,195.42.242.0/24,no-resolve
