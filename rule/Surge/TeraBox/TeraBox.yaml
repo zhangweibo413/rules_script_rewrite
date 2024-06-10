@@ -9,3 +9,4 @@ DOMAIN-KEYWORD,terabox
 IP-CIDR,210.148.0.0/16,no-resolve
 IP-CIDR,210.154.0.0/16,no-resolve
 IP-CIDR,111.108.0.0/16,no-resolve
+IP-CIDR,98.98.0.0/16,no-resolve
