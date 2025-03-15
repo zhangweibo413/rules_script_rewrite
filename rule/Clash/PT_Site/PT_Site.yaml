@@ -1,6 +1,5 @@
 # NAME: PT_Site
 payload:
-  - DOMAIN-SUFFIX,monikadesign.uk
   - DOMAIN-SUFFIX,hdroute.org
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,pttime.org
@@ -9,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,nicept.net
   - DOMAIN-SUFFIX,hares.top
   - DOMAIN-SUFFIX,audiences.me
+  - DOMAIN-SUFFIX,cinefiles.info
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,hdcmct.org
   - DOMAIN-SUFFIX,hhanclub.top
@@ -29,6 +29,17 @@ payload:
   - DOMAIN-SUFFIX,piggo.me
   - DOMAIN-SUFFIX,leaves.red
   - DOMAIN-SUFFIX,ubits.club
-  - DOMAIN-SUFFIX,icc2022.com
   - DOMAIN-SUFFIX,hdcity.city
+  - DOMAIN-SUFFIX,ourbits.club
+  - DOMAIN-SUFFIX,carpt.net
+  - DOMAIN-SUFFIX,trackers.work
+  - DOMAIN-SUFFIX,ilovelemonhd.me
+  - DOMAIN-SUFFIX,hdarea.club
+  - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,m-team.io
+  - DOMAIN-SUFFIX,agsvpt.com
+  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,hust.edu.cn
+  - DOMAIN-SUFFIX,htpt.cc
+  - DOMAIN-SUFFIX,lemonhd.club
   - DOMAIN-KEYWORD,hdcity
