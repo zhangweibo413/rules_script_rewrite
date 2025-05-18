@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,hdroute.org
   - DOMAIN-SUFFIX,zhuque.in
   - DOMAIN-SUFFIX,pttime.org
+  - DOMAIN-SUFFIX,pttime.online
   - DOMAIN-SUFFIX,hdvideo.one
   - DOMAIN-SUFFIX,carpt.net
   - DOMAIN-SUFFIX,nicept.net
