@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,keepfrds.com
   - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,pthome.net
+  - DOMAIN-SUFFIX,pthome.org
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN,on.springsunday.net
   - DOMAIN-SUFFIX,piggo.me
@@ -43,5 +44,6 @@ payload:
   - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN-SUFFIX,rainbowisland.co
   - DOMAIN-SUFFIX,chdbits.xyz
+  - DOMAIN-SUFFIX,zmpt.cc
   - DOMAIN-KEYWORD,tracker
-  - DOMAIN,tracker.icc2022.xyz
+  - DOMAIN,tracker.icc2022.com
