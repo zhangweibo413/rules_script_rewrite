@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,teraboxapp.com
   - DOMAIN-SUFFIX,nephobox.com
   - DOMAIN-KEYWORD,terabox
+  - DOMAIN-KEYWORD,dubox
+  - DOMAIN-KEYWORD,nephobox
   - IP-CIDR,210.148.0.0/16
   - IP-CIDR,210.154.0.0/16
   - IP-CIDR,111.108.0.0/16
